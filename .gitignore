@@ -1,0 +1,8 @@
+# .gitignore
+*/input*.txt
+*/test*.txt
+Day01/
+Day02/
+.pytest_cache/
+.vscode/
+*/__pycache__/
